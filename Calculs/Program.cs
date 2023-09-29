@@ -13,6 +13,8 @@ namespace Calculs
         {
             //Ligne modification pour tester GitHub
 
+            //Ligne modification pour refuser une demande
+
             // variables 
             Random rand = new Random(); // outil de génération de nombre aléatoire
             int val1, val2; // mémorisation de nombres aléatoires
