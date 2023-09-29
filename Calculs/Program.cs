@@ -11,6 +11,8 @@ namespace Calculs
     {
         static void Main(string[] args)
         {
+            //Ligne modification pour tester GitHub
+
             // variables 
             Random rand = new Random(); // outil de génération de nombre aléatoire
             int val1, val2; // mémorisation de nombres aléatoires
