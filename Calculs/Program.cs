@@ -13,7 +13,7 @@ namespace Calculs
         {
             //Ligne modification pour tester GitHub
 
-            //Ligne modification pour refuser une demande
+            //Ligne modification pour refuser une demande de refus
 
             // variables 
             Random rand = new Random(); // outil de génération de nombre aléatoire
